@@ -1,0 +1,125 @@
+Coding--谋生 
+
+https://www.youtube.com/watch?v=qGMq-Zi8MVg Count and Say | LeetCode 38 | Coding Interview Tutorial 
+
+ 
+
+https://leetcode.com/problems/count-and-say/38. Count and Say 
+
+The count-and-say sequence is a sequence of digit strings defined by the recursive formula: 
+
+countAndSay(1) = "1" 
+
+countAndSay(n) is the way you would "say" the digit string from countAndSay(n-1), which is then converted into a different digit string. 
+
+To determine how you "say" a digit string, split it into the minimal number of groups so that each group is a contiguous section all of the same character. Then for each group, say the number of characters, then say the character. To convert the saying into a digit string, replace the counts with a number and concatenate every saying. 
+
+For example, the saying and conversion for digit string "3322251": 
+
+Example 1: 
+
+Input: n = 1 Output: "1" Explanation: This is the base case.  
+
+Example 2: 
+
+Input: n = 4 Output: "1211" Explanation: countAndSay(1) = "1" countAndSay(2) = say "1" = one 1 = "11" countAndSay(3) = say "11" = two 1's = "21" countAndSay(4) = say "21" = one 2 + one 1 = "12" + "11" = "1211" 
+
+ 
+
+ 
+
+理财---发家 
+
+https://www.youtube.com/watch?v=9etQ2_krBsQ 《富爸爸窮爸爸》你的第一本理財書籍 | David书籍分享 
+
+0:00 富人不为钱工作 6:16 为什么要教授财务知识 9:15 穷人富人不同的资产思维 13:16 关注自己的事业 17:47 税收的历史和公司的力量 23:40 富人是如何投资的 31:18 学会不为金钱而工作 38:13 克服困难 48:45 开始行动 59:41 现在就可以做的 
+
+非常感谢你，David, 我19岁有幸看到了这本书，[ 穷爸爸，富爸爸 ]，我现在的生活，因为这本书而受益，谢谢你完美的提取和清晰的总结精髓，希望更多的人看到你的视频，谢谢 
+
+富爸爸穷爸爸的思维模式还是有很多值得学习和借鉴的地方，思维模式注定了人生结局。财务管理知识改变命运。 
+
+這些理財觀念的確會讓人越來越富有，卻會讓貧富差距越來越大，假設全世界有10個人但有5個靠被動收入生活，不用工作，另外5就會需要做更多的工作才能生產10個人的資源，這也是為什麼學校不教我們理財知識的原因。 
+
+好棒啊！！ ！ 穷富最大的差别是思想， 还没听完 先赞一下！ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+新闻---应变 
+
+https://www.zaobao.com.sg/news/world 
+
+http://www.ftchinese.com/【看不懂。我很好奇，那些人到底是再看什么？？】 
+
+https://cn.nytimes.com/ 
+
+基督---心理健康 
+
+https://www.youtube.com/watch?v=8ia9NXwwQvA&list=RDLVC8yEMf-LFww&index=17 
+
+用爱化解仇恨-爱是最有力量的武器 
+
+生气的种子包括发怒，仇恨，憎恨，不喜欢，厌恶，讨厌，苦毒，诽谤等等。 爱是最有力的武器，可以战胜一切. 靠着爱，我们也可以用耶稣的名赶鬼。 没有爱，我们所做的一切都是徒劳，无论祷告多久，或者寻求神，或者读经。没有爱，就找不到真理。 神的孩子是充满爱的。就像哥林多前书13章所描述的，爱是恒久忍耐，不自夸，不张狂。愿我们每个人都能够通过神的爱战胜自己内心的苦毒和仇恨，能够真正爱自己的邻舍，爱那些冒犯我们的人，从每一个别人的冒犯中学会忍耐和宽容，让神的性格渐渐长成在我们的身上。 
+
+ 
+
+驾照最近 
+
+ 
+
+https://www.youtube.com/watch?v=M4g8Nl6ckcA 
+
+How to pass the drving test easily in America???【MickeyworksTV】 
+
+ 
+
+How to pass the driver's license test in the USA quickly?? Many people who live in the United States would choose to buy a car. After all, it brings a lot of convenience to life. So how do you quickly pass the driver's license exam in the US? In this episode, I will give you a detailed explanation of the aspects of appointment registration, written test, and road test skills! 
+
+ 
+
+【吃早饭把。感觉有点低血糖。】 
+
+------------ 
+
+Walmart购物：鸡胸肉，鸡蛋，水果，蔬菜，noodle，spray oil油，口香糖。【下午去把。】 
+
+------------- 
+
+没有喷油，其他人的油，我不想动。还是煮鸡蛋把。就不煎鸡蛋了。 
+
+------------ 
+
+【10：22am，整理一些房间把。有点乱。】【工于善其事，必先利其器。所以，必须要做。不能偷懒。】 
+
+----- 
+
+【整理了一会。好累。感觉还是需要断舍离么。。行吧。。】 
+
+----------------- 
+
+【先做会作业，。过会再整理吧】 
+
+-------------- 
+
+[【好难啊。宿舍莫名其妙没电了。来图书馆学习。发现好像并不是非常适合自己。感觉还是遁了么。回去吃点东西。然后考虑其他把。图书馆还是不太适合。原因感觉，主要是灯光吗？我觉得最主要的还是心理因素。因为这是公共区间。心理压力比较大。很拘束。行吧。回去把。时间12：03pm。感觉刚出去就回去，好亏啊。】] 
+
+---------------------------- 
+
+[现在是5：17pm。在图书馆一楼。感觉很尴尬。时间太尴尬了。还是直接回家吧。这应该是最理性的做法。] 
+
+【我感觉可以。改变风格。一天6个。有点强。coding+财商+ 基督？？】【还不够。还少了一个新闻。不然没办法跟着应变。】 
+
+-------------- 
+
+【吃饭把。8：24pm了。感觉最近吃饭不怎么规律。还是需要注意的啊。】 
+
+------------------ 
+
+【今天去walmart，忘记买口香糖了。哎。】 
+
+------------ 
